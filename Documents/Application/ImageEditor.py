@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageEnhance, ImageTk
+from Params import ParameterUpdater
 import numpy as np
 
 class ParameterUpdater:
